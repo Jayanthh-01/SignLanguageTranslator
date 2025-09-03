@@ -1,0 +1,13 @@
+# Backend ignores
+backend/env/
+backend/__pycache__/
+backend/*.pyc
+backend/temp_video.mp4
+
+# Frontend ignores
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# General
+.DS_Store
