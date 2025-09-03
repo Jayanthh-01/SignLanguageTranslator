@@ -1,0 +1,6 @@
+# React/Vite frontend ignores
+node_modules/
+dist/
+.vite/
+.env
+.DS_Store
